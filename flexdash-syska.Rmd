@@ -85,7 +85,23 @@ install.packages("flexdashboard")
 
 <center><img src="pics/flex.png" height="300"></center>
 
-
 <BR>
 http://rmarkdown.rstudio.com/flexdashboard/
+
+## Setup
+<center><img src="pics/chunk1.png" height="450"></center>
+
+## First column (two plots)
+<center><img src="pics/chunk2.png" height="500"></center>
+
+## Second column (table: brushed data)
+<center><img src="pics/chunk3.png" height="300"></center>
+
+## Some extra tweaks
+<center><img src="pics/extradash.png" height="500"></center>
+
+
+
+
+
 
